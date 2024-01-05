@@ -15,4 +15,4 @@ install_github("JKrampe/HDSpectralAnalysis")
 ```
 
 ## Reproducibility part
-See the additional readme file in the folder repro. 
+See the additional readme file in the folder Repro. 
